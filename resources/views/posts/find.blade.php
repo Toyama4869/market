@@ -3,7 +3,7 @@
 @section('title', $title)
 
 @section('content')
-
+<div class="body">
 
     @if ($posts->count())
      @foreach($posts as $post)
@@ -48,4 +48,5 @@
     </li>
     @endforeach
     @endif
+</div>
 @endsection
