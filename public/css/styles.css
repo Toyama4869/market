@@ -39,6 +39,8 @@ header a {
  .body {
     margin: 0 auto;
     text-align: center;
+    padding-top: 150px;
+
 }
 
 .index {
@@ -86,7 +88,7 @@ header a {
     margin: 0 auto;
     width: 600px;
     height: auto;
-    padding: 20px;
+    padding-top: 150px;
     margin-bottom: 50px;
 }
 
@@ -231,10 +233,10 @@ input {
  }
 
  .logo {
-     width: 230px;
+     width: 190px;
      height: auto;
-     margin-left: 80px;
-     margin-top: 10px;
+     /* margin-left: 80px; */
+     /* margin-top: 10px; */
  }
 
  .title_likes {
